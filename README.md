@@ -1,1 +1,6 @@
 print ("hello world")
+a=input(‘输入你的体重’)
+a=float(a)
+b=input('输入你的身高‘)
+b=float(b)
+print(a)
